@@ -19,7 +19,8 @@ cd existing-repo
 
 git remote add origin https://gitee.com/romepeng/help.me.git
 
-git push -u origin master
+git push -u origin master/ main
+
 
 
 
